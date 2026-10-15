@@ -96,7 +96,7 @@ $usuarios = $stmt->fetchAll(PDO::FETCH_ASSOC);
                         </p>
                     </div>
                 </div>
-                <img class="img-fluid mt-4 border border-secondary rounded" src="Proyecto-GitHub/assets/img/ipad.png" alt="..." />
+                <img class="img-fluid mt-4 border border-secondary rounded" src="Proyecto-GitHub/assets/img/umbrella.jpg" alt="Umbrella Protocol" />
             </div>
         </section>
 
@@ -104,7 +104,7 @@ $usuarios = $stmt->fetchAll(PDO::FETCH_ASSOC);
         <section class="projects-section bg-dark text-white" id="projects">
             <div class="container px-4 px-lg-5">
                 <div class="row gx-0 mb-4 mb-lg-5 align-items-center">
-                    <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0 border border-danger" src="Proyecto-GitHub/assets/img/bg-masthead.jpg" alt="..." /></div>
+                    <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0 border border-danger" src="Proyecto-GitHub/assets/img/corporation umbrella.jpg" alt="Corporation Umbrella" /></div>
                     <div class="col-xl-4 col-lg-5">
                         <div class="featured-text text-center text-lg-left p-4">
                             <h4 class="text-danger">Arklay Laboratory</h4>
